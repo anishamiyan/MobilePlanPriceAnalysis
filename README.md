@@ -13,26 +13,6 @@ The **Mobile Plan Price Analysis** backend project, developed using Spring Boot 
 - **Maven**
 - **JUnit (for testing)**
 
-## Installation
-
-To set up the backend locally, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Shivam-Dogra/MobilePlanPriceAnalysis.git
-   ```
-2. **Navigate to the project directory:**
-   ```bash
-   cd MobilePlanPriceAnalysis
-   ```
-3. **Build the project using Maven:**
-   ```bash
-   mvn clean install
-   ```
-4. **Run the application:**
-   ```bash
-   mvn spring-boot:run
-   ```
 
 ## Usage
 
