@@ -112,13 +112,3 @@ After setting up the backend, you can use it to perform various tasks:
      - Parses HTML content from specified URLs.
      - Extracts and processes data for use in other components like web scraping and data validation.
 
-## Contributing
-
-Contributions to the project are welcome. To contribute:
-
-1. Fork the repository.
-2. Create a feature branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -m 'Add feature-name'`
-4. Push to the branch: `git push origin feature-name`
-5. Open a pull request.
-
